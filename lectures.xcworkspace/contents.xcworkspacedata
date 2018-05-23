@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:06-Micro Interactions/06-Micro Interactions.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:04-Motion/04-Motion.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:03-CALayer/03-CALayer.xcodeproj">
    </FileRef>
    <FileRef
